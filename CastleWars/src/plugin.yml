@@ -1,2 +1,4 @@
-## YAML Template.
----
+name: CastleWars
+version: 0.1
+description: Castle Wars Plugin
+main: com.gmail.rmb1993.castlewars.CastleWars
